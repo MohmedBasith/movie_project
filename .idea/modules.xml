@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../basithmovie/.idea/basithmovie.iml" filepath="$PROJECT_DIR$/../basithmovie/.idea/basithmovie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ecommerse/ecommerceproject/.idea/ecommerceproject.iml" filepath="$PROJECT_DIR$/../../ecommerse/ecommerceproject/.idea/ecommerceproject.iml" />
+      <module fileurl="file://E:/myprojects/flasksite/.idea/flasksite.iml" filepath="E:/myprojects/flasksite/.idea/flasksite.iml" />
+      <module fileurl="file://$USER_HOME$/gymprojectpythondjango/.idea/gymprojectpythondjango.iml" filepath="$USER_HOME$/gymprojectpythondjango/.idea/gymprojectpythondjango.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/movieproject.iml" filepath="$PROJECT_DIR$/.idea/movieproject.iml" />
+      <module fileurl="file://E:/myprojects/my_flasksite/.idea/my_flasksite.iml" filepath="E:/myprojects/my_flasksite/.idea/my_flasksite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../todobasithproject/.idea/todobasithproject.iml" filepath="$PROJECT_DIR$/../../todobasithproject/.idea/todobasithproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../todoproject/.idea/todoproject.iml" filepath="$PROJECT_DIR$/../../todoproject/.idea/todoproject.iml" />
+      <module fileurl="file://$USER_HOME$/travelproject/.idea/travelproject.iml" filepath="$USER_HOME$/travelproject/.idea/travelproject.iml" />
+      <module fileurl="file://$USER_HOME$/websiteScraper/websitescraper_project/.idea/websitescraper_project.iml" filepath="$USER_HOME$/websiteScraper/websitescraper_project/.idea/websitescraper_project.iml" />
+    </modules>
+  </component>
+</project>
